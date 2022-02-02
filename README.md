@@ -1,9 +1,11 @@
 # Internship
-This is my roadmap for the bioinformatics internship at ICIPE. 
+This is Bioinformatics Internship repository
 
-## general vision
+My name is Audrey Oronda, an MBBU Bioinformatics intern at ICIPE. i'm excited to start my research career in genomics and bioinformatics with this internship.
+
+## long term vision
 become a bioinformatician in the near future
 
-## short term goal
+## short term vision
 to gain hands-on experience and knowledge from the talented scientists through training and mentorship.
 
