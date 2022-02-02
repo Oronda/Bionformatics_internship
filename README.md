@@ -1,7 +1,7 @@
 # Internship
 This is Bioinformatics Internship repository
 
-My name is Audrey Oronda, an MBBU Bioinformatics intern at ICIPE. i'm excited to start my research career in genomics and bioinformatics with this internship.
+My name is Audrey Oronda, an MBBU Bioinformatics intern at ICIPE. I'm excited to start my research career in genomics and bioinformatics with this internship.
 
 ## long term vision
 become a bioinformatician in the near future
