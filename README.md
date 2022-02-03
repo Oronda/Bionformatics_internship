@@ -10,4 +10,4 @@ become a bioinformatician in the near future
 to gain hands-on experience and knowledge from the talented scientists through training and mentorship.
 
 
-This is my [roadmap]{https://github.com/Oronda/Bionformatics_internship/blob/main/roadmap.md}
+This is my [roadmap](https://github.com/Oronda/Bionformatics_internship/blob/main/roadmap.md)
