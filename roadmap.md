@@ -5,7 +5,7 @@
 * NGS data handling and quality control
 * Git and GitHUb
 * Scientific writing
-* 
+
 ## Soft skills 
 * Communication and presentation skills
 * Participation in journal clubs
