@@ -7,7 +7,7 @@ My name is Audrey Oronda, a Bioinformatics intern from Molecular Biology and Bio
 To become a known bioinformatician in the near future
 
 ## Vision
-*Long-term* To gain hands-on experience and knowledge from the talented scientists through training and mentorship.
+To gain hands-on experience via mini-projects and knowledge from the talented scientists through training and mentorship.
 
-
+## Roadmap
 This is my [roadmap](https://github.com/Oronda/Bionformatics_internship/blob/main/roadmap.md)
